@@ -36,6 +36,6 @@
         }
     },
     "addons": [
-        "pgbackups:hobby-dev"
+        "pgbackups:Hobby-Dev"
     ]
 }
